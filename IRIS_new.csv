@@ -1,0 +1,152 @@
+sepal_length,sepal_width,petal_length,petal_width,avg_width,season,species,quality
+5.1,3.5,1.4,0.2,2.55,summer ,Iris-setosa,good quality
+4.9,3,1.4,0.2,2.375,winter,Iris-setosa,bad quality
+4.7,3.2,1.3,0.2,2.35,summer ,Iris-setosa,good quality
+4.6,3.1,1.5,0.2,2.35,winter,Iris-setosa,bad quality
+5,3.6,1.4,0.2,2.55,summer ,Iris-setosa,bad quality
+5.4,3.9,1.7,0.4,2.85,winter,Iris-setosa,good quality
+4.6,3.4,1.4,0.3,2.425,summer ,Iris-setosa,good quality
+5,3.4,1.5,0.2,2.525,winter,Iris-setosa,good quality
+4.4,2.9,1.4,0.2,2.225,summer ,Iris-setosa,bad quality
+4.9,3.1,1.5,0.1,2.4,winter,Iris-setosa,bad quality
+5.4,3.7,1.5,0.2,2.7,summer ,Iris-setosa,good quality
+4.8,3.4,1.6,0.2,2.5,winter,Iris-setosa,good quality
+4.8,3,1.4,0.1,2.325,summer ,Iris-setosa,bad quality
+4.3,3,1.1,0.1,2.125,winter,Iris-setosa,good quality
+5.8,4,1.2,0.2,2.8,summer ,Iris-setosa,good quality
+5.7,4.4,1.5,0.4,3,winter,Iris-setosa,good quality
+5.4,3.9,1.3,0.4,2.75,summer ,Iris-setosa,good quality
+5.1,3.5,1.4,0.3,2.575,winter,Iris-setosa,bad quality
+5.7,3.8,1.7,0.3,2.875,summer ,Iris-setosa,good quality
+5.1,3.8,1.5,0.3,2.675,winter,Iris-setosa,good quality
+5.4,3.4,1.7,0.2,2.675,summer ,Iris-setosa,bad quality
+5.1,3.7,1.5,0.4,2.675,winter,Iris-setosa,good quality
+4.6,3.6,1,0.2,2.35,summer ,Iris-setosa,good quality
+5.1,3.3,1.7,0.5,2.65,winter,Iris-setosa,good quality
+4.8,3.4,1.9,0.2,2.575,summer ,Iris-setosa,good quality
+5,3,1.6,0.2,2.45,winter,Iris-setosa,bad quality
+5,3.4,1.6,0.4,2.6,summer ,Iris-setosa,bad quality
+5.2,3.5,1.5,0.2,2.6,winter,Iris-setosa,bad quality
+5.2,3.4,1.4,0.2,2.55,summer ,Iris-setosa,good quality
+4.7,3.2,1.6,0.2,2.425,winter,Iris-setosa,good quality
+4.8,3.1,1.6,0.2,2.425,summer ,Iris-setosa,bad quality
+5.4,3.4,1.5,0.4,2.675,winter,Iris-setosa,good quality
+5.2,4.1,1.5,0.1,2.725,summer ,Iris-setosa,good quality
+5.5,4.2,1.4,0.2,2.825,winter,Iris-setosa,bad quality
+4.9,3.1,1.5,0.1,2.4,summer ,Iris-setosa,good quality
+5,3.2,1.2,0.2,2.4,winter,Iris-setosa,good quality
+5.5,3.5,1.3,0.2,2.625,summer ,Iris-setosa,bad quality
+4.9,3.1,1.5,0.1,2.4,winter,Iris-setosa,bad quality
+4.4,3,1.3,0.2,2.225,summer ,Iris-setosa,bad quality
+5.1,3.4,1.5,0.2,2.55,winter,Iris-setosa,good quality
+5,3.5,1.3,0.3,2.525,summer ,Iris-setosa,bad quality
+4.5,2.3,1.3,0.3,2.1,winter,Iris-setosa,good quality
+4.4,3.2,1.3,0.2,2.275,summer ,Iris-setosa,bad quality
+5,3.5,1.6,0.6,2.675,winter,Iris-setosa,good quality
+5.1,3.8,1.9,0.4,2.8,summer ,Iris-setosa,bad quality
+4.8,3,1.4,0.3,2.375,winter,Iris-setosa,good quality
+5.1,3.8,1.6,0.2,2.675,summer ,Iris-setosa,bad quality
+4.6,3.2,1.4,0.2,2.35,winter,Iris-setosa,good quality
+5.3,3.7,1.5,0.2,2.675,summer ,Iris-setosa,bad quality
+5,3.3,1.4,0.2,2.475,winter,Iris-setosa,good quality
+7,3.2,4.7,1.4,4.075,summer ,Iris-versicolor,bad quality
+6.4,3.2,4.5,1.5,3.9,winter,Iris-versicolor,good quality
+6.9,3.1,4.9,1.5,4.1,summer ,Iris-versicolor,bad quality
+5.5,2.3,4,1.3,3.275,winter,Iris-versicolor,good quality
+6.5,2.8,4.6,1.5,3.85,summer ,Iris-versicolor,good quality
+5.7,2.8,4.5,1.3,3.575,winter,Iris-versicolor,bad quality
+6.3,3.3,4.7,1.6,3.975,summer ,Iris-versicolor,good quality
+4.9,2.4,3.3,1,2.9,winter,Iris-versicolor,bad quality
+6.6,2.9,4.6,1.3,3.85,summer ,Iris-versicolor,good quality
+5.2,2.7,3.9,1.4,3.3,winter,Iris-versicolor,bad quality
+5,2,3.5,1,2.875,summer ,Iris-versicolor,good quality
+5.9,3,4.2,1.5,3.65,winter,Iris-versicolor,good quality
+6,2.2,4,1,3.3,summer ,Iris-versicolor,bad quality
+6.1,2.9,4.7,1.4,3.775,winter,Iris-versicolor,good quality
+5.6,2.9,3.6,1.3,3.35,summer ,Iris-versicolor,bad quality
+6.7,3.1,4.4,1.4,3.9,winter,Iris-versicolor,good quality
+5.6,3,4.5,1.5,3.65,summer ,Iris-versicolor,bad quality
+5.8,2.7,4.1,1,3.4,winter,Iris-versicolor,good quality
+6.2,2.2,4.5,1.5,3.6,summer ,Iris-versicolor,bad quality
+5.6,2.5,3.9,1.1,3.275,winter,Iris-versicolor,bad quality
+5.9,3.2,4.8,1.8,3.925,summer ,Iris-versicolor,bad quality
+6.1,2.8,4,1.3,3.55,winter,Iris-versicolor,bad quality
+6.3,2.5,4.9,1.5,3.8,summer ,Iris-versicolor,good quality
+6.1,2.8,4.7,1.2,3.7,winter,Iris-versicolor,good quality
+6.4,2.9,4.3,1.3,3.725,summer ,Iris-versicolor,good quality
+6.6,3,4.4,1.4,3.85,winter,Iris-versicolor,good quality
+6.8,2.8,4.8,1.4,3.95,summer ,Iris-versicolor,bad quality
+6.7,3,5,1.7,4.1,winter,Iris-versicolor,bad quality
+6,2.9,4.5,1.5,3.725,summer ,Iris-versicolor,good quality
+5.7,2.6,3.5,1,3.2,winter,Iris-versicolor,bad quality
+5.5,2.4,3.8,1.1,3.2,summer ,Iris-versicolor,bad quality
+5.5,2.4,3.7,1,3.15,winter,Iris-versicolor,good quality
+5.8,2.7,3.9,1.2,3.4,summer ,Iris-versicolor,good quality
+6,2.7,5.1,1.6,3.85,winter,Iris-versicolor,good quality
+5.4,3,4.5,1.5,3.6,summer ,Iris-versicolor,bad quality
+6,3.4,4.5,1.6,3.875,winter,Iris-versicolor,bad quality
+6.7,3.1,4.7,1.5,4,summer ,Iris-versicolor,good quality
+6.3,2.3,4.4,1.3,3.575,winter,Iris-versicolor,good quality
+5.6,3,4.1,1.3,3.5,summer ,Iris-versicolor,bad quality
+5.5,2.5,4,1.3,3.325,winter,Iris-versicolor,bad quality
+5.5,2.6,4.4,1.2,3.425,summer ,Iris-versicolor,good quality
+6.1,3,4.6,1.4,3.775,winter,Iris-versicolor,bad quality
+5.8,2.6,4,1.2,3.4,summer ,Iris-versicolor,good quality
+5,2.3,3.3,1,2.9,winter,Iris-versicolor,bad quality
+5.6,2.7,4.2,1.3,3.45,summer ,Iris-versicolor,bad quality
+5.7,3,4.2,1.2,3.525,winter,Iris-versicolor,good quality
+5.7,2.9,4.2,1.3,3.525,summer ,Iris-versicolor,bad quality
+6.2,2.9,4.3,1.3,3.675,winter,Iris-versicolor,good quality
+5.1,2.5,3,1.1,2.925,summer ,Iris-versicolor,bad quality
+5.7,2.8,4.1,1.3,3.475,winter,Iris-versicolor,bad quality
+6.3,3.3,6,2.5,4.525,summer ,Iris-virginica,good quality
+5.8,2.7,5.1,1.9,3.875,winter,Iris-virginica,bad quality
+7.1,3,5.9,2.1,4.525,summer ,Iris-virginica,good quality
+6.3,2.9,5.6,1.8,4.15,winter,Iris-virginica,bad quality
+6.5,3,5.8,2.2,4.375,summer ,Iris-virginica,good quality
+7.6,3,6.6,2.1,4.825,winter,Iris-virginica,good quality
+4.9,2.5,4.5,1.7,3.4,summer ,Iris-virginica,bad quality
+7.3,2.9,6.3,1.8,4.575,winter,Iris-virginica,good quality
+6.7,2.5,5.8,1.8,4.2,summer ,Iris-virginica,bad quality
+7.2,3.6,6.1,2.5,4.85,winter,Iris-virginica,bad quality
+6.5,3.2,5.1,2,4.2,summer ,Iris-virginica,good quality
+6.4,2.7,5.3,1.9,4.075,winter,Iris-virginica,bad quality
+6.8,3,5.5,2.1,4.35,summer ,Iris-virginica,good quality
+5.7,2.5,5,2,3.8,winter,Iris-virginica,good quality
+5.8,2.8,5.1,2.4,4.025,summer ,Iris-virginica,bad quality
+6.4,3.2,5.3,2.3,4.3,winter,Iris-virginica,good quality
+6.5,3,5.5,1.8,4.2,summer ,Iris-virginica,bad quality
+7.7,3.8,6.7,2.2,5.1,winter,Iris-virginica,good quality
+7.7,2.6,6.9,2.3,4.875,summer ,Iris-virginica,bad quality
+6,2.2,5,1.5,3.675,winter,Iris-virginica,bad quality
+6.9,3.2,5.7,2.3,4.525,summer ,Iris-virginica,good quality
+5.6,2.8,4.9,2,3.825,winter,Iris-virginica,bad quality
+7.7,2.8,6.7,2,4.8,summer ,Iris-virginica,bad quality
+6.3,2.7,4.9,1.8,3.925,winter,Iris-virginica,bad quality
+6.7,3.3,5.7,2.1,4.45,summer ,Iris-virginica,bad quality
+7.2,3.2,6,1.8,4.55,winter,Iris-virginica,bad quality
+6.2,2.8,4.8,1.8,3.9,summer ,Iris-virginica,good quality
+6.1,3,4.9,1.8,3.95,winter,Iris-virginica,good quality
+6.4,2.8,5.6,2.1,4.225,summer ,Iris-virginica,good quality
+7.2,3,5.8,1.6,4.4,winter,Iris-virginica,bad quality
+7.4,2.8,6.1,1.9,4.55,summer ,Iris-virginica,good quality
+7.9,3.8,6.4,2,5.025,winter,Iris-virginica,good quality
+6.4,2.8,5.6,2.2,4.25,summer ,Iris-virginica,good quality
+6.3,2.8,5.1,1.5,3.925,winter,Iris-virginica,bad quality
+6.1,2.6,5.6,1.4,3.925,summer ,Iris-virginica,bad quality
+7.7,3,6.1,2.3,4.775,winter,Iris-virginica,good quality
+6.3,3.4,5.6,2.4,4.425,summer ,Iris-virginica,good quality
+6.4,3.1,5.5,1.8,4.2,winter,Iris-virginica,bad quality
+6,3,4.8,1.8,3.9,summer ,Iris-virginica,good quality
+6.9,3.1,5.4,2.1,4.375,winter,Iris-virginica,good quality
+6.7,3.1,5.6,2.4,4.45,summer ,Iris-virginica,good quality
+6.9,3.1,5.1,2.3,4.35,winter,Iris-virginica,bad quality
+5.8,2.7,5.1,1.9,3.875,summer ,Iris-virginica,bad quality
+6.8,3.2,5.9,2.3,4.55,winter,Iris-virginica,good quality
+6.7,3.3,5.7,2.5,4.55,summer ,Iris-virginica,good quality
+6.7,3,5.2,2.3,4.3,winter,Iris-virginica,good quality
+6.3,2.5,5,1.9,3.925,summer ,Iris-virginica,good quality
+6.5,3,5.2,2,4.175,winter,Iris-virginica,good quality
+6.2,3.4,5.4,2.3,4.325,summer ,Iris-virginica,good quality
+5.9,3,5.1,1.8,3.95,winter,Iris-virginica,good quality
+,,,0,,,,
